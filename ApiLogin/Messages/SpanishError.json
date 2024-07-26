@@ -1,0 +1,8 @@
+{
+  "LoginError": "Hubo un error al intentar iniciar sesión.",
+  "DatabaseError": "Se produjo un error en la base de datos.",
+  "GeneralError": "Ocurrió un error inesperado.",
+  "UserOut": "Usuario no encontrado. Verifica tus credenciales.",
+  "InvalidLogin": "Nombre de usuario o contraseña inválidos.",
+  "UserInactive": "Usuario no verificado. Por favor, verifica tu correo electrónico."
+}
